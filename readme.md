@@ -81,17 +81,15 @@ Available options:
 
 ### Streamlit Dashboard
 
-To run the interactive dashboard:
+The streamlit dashboard is deployed and can be accessed from here <br>
+https://spacex-launch-tracker.streamlit.app/
 
-```
-streamlit run dashboard.py
-```
+The dashboard provides:
 
-This will open a web browser with the dashboard interface, where you can:
-- Filter launches using the sidebar controls
-- View summary statistics and visualizations
-- Export filtered data to CSV or JSON
-- Explore launches on an interactive timeline
+- Interactive filtering with multi-select options
+- Visual analytics with charts and graphs
+- Tabular data views
+- Export capabilities
 
 ## API Details
 
